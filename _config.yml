@@ -67,13 +67,13 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+#  rss: true
+  email: "zoltan.gaspar627@gmail.com"
+#  facebook: deanattali
+  github: z0li627
+  twitter: z0li_
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: z0li
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -82,7 +82,7 @@ social-network-links:
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: z0li
 #  yelp: yourname
 
 # Select which share links to show in posts
